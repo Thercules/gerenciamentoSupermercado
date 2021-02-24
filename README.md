@@ -29,7 +29,7 @@
 			.Make purchases
 		
 
-
+--> About project:
 <p>I created this project as a means of practice for my knowledge of java, developed a supermarket management system with several functions, including simple login.</p>
 <p>Criei este projeto como meio de prática para meus conhecimentos de java, desenvolvi um sistema de gerenciamento de supermercado com diversas funções, inclusive login simples. </p>
 </br> 
