@@ -1,5 +1,5 @@
 
-	Sales control system // Sistema de controle de vendas <== 
+	Sales control system // Sistema de controle de vendas
 	Autor: Thiago Hercules de Aguiar Silva. // Software engineer junior
 /*	
 	==> Functions in the application: 
