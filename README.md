@@ -2,7 +2,8 @@
 	Sales control system // Sistema de controle de vendas
 	Autor: Thiago Hercules de Aguiar Silva. // Software engineer junior
 /*	
-	==> Functions in the application: 
+	Functions in the application:
+	
 		--> Login with: 
 			.Manager
 			.Cashier
