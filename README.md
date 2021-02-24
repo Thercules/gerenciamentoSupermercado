@@ -30,8 +30,8 @@
 		
 */
 
-<p>With the beginning of classes in college, we started the object-oriented java class, and on the first day we were challenged with small basic level challenges.</p>
-<p>Com o inicio das aulas na faculdade, iniciamos a matéria de java orientado a objetos, e no primeiro dia fomos desafiados a pequenos desafios de nível básico. </p>
+<p>I created this project as a means of practice for my knowledge of java, developed a supermarket management system with several functions, including simple login.</p>
+<p>Criei este projeto como meio de prática para meus conhecimentos de java, desenvolvi um sistema de gerenciamento de supermercado com diversas funções, inclusive login simples. </p>
 </br> 
 <p><em><b>Languages:</b></em> </p>
 <a href="#"><img src="https://img.shields.io/badge/Java-E94057?style=for-the-badge&logo=Java&logoColor=white"/>
